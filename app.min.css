@@ -47,7 +47,7 @@ body, h1, h2, h3, h4, h5, h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../images/intro-bg.png) no-repeat ;
+    background: url(https://preetamsortur.github.io/freshjoy/images/intro-bg.png) no-repeat ;
     background-size: 100% 100%;
 }
 
@@ -151,7 +151,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .banner {
     padding: 150px 0;
     color: #f8f8f8;
-    background: url(../images/banner-bg.png) no-repeat center center;
+    background: url(https://preetamsortur.github.io/freshjoy/images/banner-bg.png) no-repeat center center;
     background-size: cover;
 }
 
